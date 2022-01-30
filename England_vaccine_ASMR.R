@@ -94,8 +94,8 @@ covid_data <- covid_data_raw %>%
 
 plot_title <- "Vaccination status and all-cause mortality"
 plot_subtitle <- "England, by age-group, by month of 2021"
-plot_caption <- "data: UK Office for National Statistics data
-                 www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsbyvaccinationstatusengland\n
+plot_caption <- "data: UK Office for National Statistics
+                 www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsbyvaccinationstatusengland
                  analysis: github.com/martroben/England_vaccine_ASMR"
 y_label <- "mortality (per 100k person-years)"
 
